@@ -1,0 +1,22 @@
+{
+  "name": "3.3-dars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shahzod-T/boostrap-2-TSh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shahzod-T/boostrap-2-TSh/issues"
+  },
+  "homepage": "https://github.com/Shahzod-T/boostrap-2-TSh#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
